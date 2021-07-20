@@ -68,3 +68,9 @@ h4 {
 #currentLocation {
   color: #2f5d62;
 }
+.coder {
+  text-align: center;
+  color: #2f5d62;
+  opacity: 0.5;
+  font-size: 14px;
+}
